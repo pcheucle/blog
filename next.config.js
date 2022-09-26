@@ -89,4 +89,5 @@ module.exports = withBundleAnalyzer({
       unoptimized: true,
     },
   },
+  assetPrefix: '.',
 })
