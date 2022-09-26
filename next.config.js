@@ -90,5 +90,5 @@ module.exports = withBundleAnalyzer({
     },
   },
   basePath: '/blog',
-  assetPrefix: '.',
+  assetPrefix: '/blog/',
 })
