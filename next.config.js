@@ -89,6 +89,6 @@ module.exports = withBundleAnalyzer({
       unoptimized: true,
     },
   },
-  basePath: '/.',
-  assetPrefix: '.',
+  basePath: '/blog',
+  assetPrefix: '/blog',
 })
